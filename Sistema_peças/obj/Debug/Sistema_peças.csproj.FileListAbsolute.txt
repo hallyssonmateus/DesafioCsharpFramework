@@ -24,3 +24,5 @@ C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\bin\
 C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\bin\Debug\Remotion.Linq.xml
 C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\bin\Debug\Remotion.Linq.EagerFetching.xml
 C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\obj\Debug\Sistema_.5B214CD1.Up2Date
+C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer\Desktop\Projetos\Desafio_Level8\Sistema_peças\Sistema_peças\bin\Debug\System.Data.SqlClient.xml

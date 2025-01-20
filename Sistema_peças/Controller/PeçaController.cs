@@ -15,7 +15,7 @@ namespace Sistema_peças.Controller
         {
             try
             {
-                using (var session = NHibernateHelper.GetSessionFactory().OpenSession())
+                using (var session = NHibernateHelper.OpenSession()) // Alteração aqui
                 {
                     using (var transaction = session.BeginTransaction())
                     {
@@ -36,7 +36,7 @@ namespace Sistema_peças.Controller
         {
             try
             {
-                using (var session = NHibernateHelper.GetSessionFactory().OpenSession())
+                using (var session = NHibernateHelper.OpenSession()) // Alteração aqui
                 {
                     // Inicia a query base
                     var query = session.Query<Peça>().AsQueryable();

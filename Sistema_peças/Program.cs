@@ -19,7 +19,7 @@ namespace Sistema_peças
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new btn_cad_peças());
+            Application.Run(new Cadastro());
         }
     }
 }

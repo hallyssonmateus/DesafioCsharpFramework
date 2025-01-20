@@ -51,6 +51,9 @@
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.SqlClient, Version=4.6.2.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Data.SqlClient.4.9.0\lib\net462\System.Data.SqlClient.dll</HintPath>
+    </Reference>
     <Reference Include="System.ServiceModel" />
     <Reference Include="System.Transactions" />
     <Reference Include="System.Xml.Linq" />
@@ -179,9 +182,9 @@
     <Folder Include="ConfigDb\" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Mapping\Hibernate.xml" />
-    <Content Include="Mapping\Peça.xml" />
-    <Content Include="Mapping\Vendas.xml" />
+    <Content Include="Mapping\hibernate.cfg.xml" />
+    <Content Include="Mapping\Peca.hbm.xml" />
+    <Content Include="Mapping\Vendas.hbm.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
