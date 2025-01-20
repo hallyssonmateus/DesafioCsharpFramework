@@ -3,24 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\controller\\pe\u00E7acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\controller\\pe\u00E7acontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\controller\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\controller\\pecacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\controller\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\mapping\\peca.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\mapping\\peca.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\model\\pe\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\model\\pe\u00E7a.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\sistema_pe\u00E7as\\controller\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\controller\\nhibernatehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|c:\\users\\acer\\desktop\\projetos\\desafio_level8\\sistema_pe\u00E7as\\sistema_pe\u00E7as\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\cadastro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\sistema_pe\u00E7as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\sistema_pe\u00E7as\\mapping\\vendas.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\mapping\\vendas.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\sistema_pe\u00E7as\\mapping\\peca.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1357A382-A8A0-4538-B7F7-C79248B19A6F}|Sistema_pe\u00E7as\\Sistema_pe\u00E7as.csproj|solutionrelative:sistema_pe\u00E7as\\mapping\\peca.hbm.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,70 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadastro.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Cadastro.cs",
+              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Cadastro.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Cadastro.cs",
+              "RelativeToolTip": "Sistema_pe\u00E7as\\Cadastro.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAG4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:28:21.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pe\u00E7a.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Model\\Pe\u00E7a.cs",
+              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Model\\Pe\u00E7a.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Model\\Pe\u00E7a.cs",
+              "RelativeToolTip": "Sistema_pe\u00E7as\\Model\\Pe\u00E7a.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T01:05:24.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Peca.hbm.xml",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
+              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
+              "RelativeToolTip": "Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-01-20T00:59:19.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Pe\u00E7aController.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\Pe\u00E7aController.cs",
-              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Controller\\Pe\u00E7aController.cs",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\Pe\u00E7aController.cs*",
-              "RelativeToolTip": "Sistema_pe\u00E7as\\Controller\\Pe\u00E7aController.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAswDsAAAAJAAAAAAAAAA==",
+              "Title": "PecaController.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\PecaController.cs",
+              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Controller\\PecaController.cs",
+              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\PecaController.cs",
+              "RelativeToolTip": "Sistema_pe\u00E7as\\Controller\\PecaController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAswEoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T00:18:09.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "NHibernateHelper.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\NHibernateHelper.cs",
               "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Controller\\NHibernateHelper.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Controller\\NHibernateHelper.cs",
               "RelativeToolTip": "Sistema_pe\u00E7as\\Controller\\NHibernateHelper.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAABiAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-19T23:55:34.619Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Program.cs",
               "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Program.cs",
               "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Program.cs",
               "RelativeToolTip": "Sistema_pe\u00E7as\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCYAAABkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-16T19:06:48.539Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Peca.hbm.xml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
-              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
-              "RelativeToolTip": "Sistema_pe\u00E7as\\Mapping\\Peca.hbm.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-01-16T18:57:25.165Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Vendas.hbm.xml",
-              "DocumentMoniker": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Vendas.hbm.xml",
-              "RelativeDocumentMoniker": "Sistema_pe\u00E7as\\Mapping\\Vendas.hbm.xml",
-              "ToolTip": "C:\\Users\\Acer\\Desktop\\Projetos\\Desafio_Level8\\Sistema_pe\u00E7as\\Sistema_pe\u00E7as\\Mapping\\Vendas.hbm.xml",
-              "RelativeToolTip": "Sistema_pe\u00E7as\\Mapping\\Vendas.hbm.xml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
-              "WhenOpened": "2025-01-16T18:45:37.1Z"
             }
           ]
         }

@@ -80,7 +80,7 @@
       <DependentUpon>Consulta.cs</DependentUpon>
     </Compile>
     <Compile Include="Controller\NHibernateHelper.cs" />
-    <Compile Include="Controller\PeçaController.cs" />
+    <Compile Include="Controller\PecaController.cs" />
     <Compile Include="Edicao.cs">
       <SubType>Form</SubType>
     </Compile>

@@ -42,7 +42,7 @@ namespace Sistema_peças
                 }
 
                 // Instancia o controlador e faz a pesquisa
-                var controller = new PeçaController();
+                var controller = new PecaController();
                 var resultados = controller.PesquisarPeça(id, nome);
 
                 // Exibe os resultados

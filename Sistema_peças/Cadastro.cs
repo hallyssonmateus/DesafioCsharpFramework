@@ -92,7 +92,7 @@ namespace Sistema_peças
             }
 
             // Criar uma nova peça
-            var peca = new Peça
+            var peca = new Peca
             {
                 Nome = nome,
                 Fabricante = fabricante,
@@ -107,8 +107,8 @@ namespace Sistema_peças
             try
             {
                 // Instanciar o controlador e salvar no banco
-                var controller = new PeçaController();
-                var sucesso = controller.CadastrarPeça(peca);
+                var controller = new PecaController();
+                var sucesso = controller.CadastrarPeca(peca);
 
                 // Mostrar uma mensagem ao usuário
                 if (sucesso)

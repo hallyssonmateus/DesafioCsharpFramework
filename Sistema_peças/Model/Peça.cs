@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sistema_peças.Model
 {
-    internal class Peça
+    internal class Peca
     {
         public virtual int Id { get; set; }
         public virtual string Nome { get; set; }
